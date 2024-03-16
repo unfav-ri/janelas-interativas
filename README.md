@@ -16,5 +16,5 @@ Este script JavaScript utiliza a memória local "cache" em conjunto com a biblio
 
 # Autor
 
-R. Gonçalves
-https://www.linkedin.com/in/unic-ri/
+R. Gonçalves  
+[LinkedIn](https://www.linkedin.com/in/unic-ri/ "Visite meu perfil no LinkedIn")
