@@ -17,4 +17,4 @@ Este script JavaScript utiliza a memória local "cache" em conjunto com a biblio
 # Autor
 
 R. Gonçalves
-https://www.linkedin.com/in/rgonsa/
+https://www.linkedin.com/in/unic-ri/
